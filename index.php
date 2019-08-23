@@ -6,11 +6,13 @@
 </head>
 <body>
 	<header>
-		<h1>Form Data Process With PHP</h1>
+		<h1>Form Data Process With PHP 2</h1>
 		<h3>By David Guimaraes, Computer Engineer</h3>
 		<p>This is a little project done in order to actually start doing things with the PHP
 			programming language. This is a very basic app. All it does is: it gathers the data
-			from an HTML form and stores the data into variables for further processing.</p>
+			from an HTML form and stores the data into variables for further processing. The only
+			difference from this project to the previous one is that the CSS code was separated to
+			a different file and linked down here. That means the final result is the same thing.</p>
 	</header>
 	<main>
 		<br><br>
